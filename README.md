@@ -7,7 +7,7 @@
   (upload your photo into this repo root, e.g. as profile.png, then
   reference it as ./profile.png below)
 -->
-<img src="./profile.png" width="150" height="150" style="border-radius:50%;"/>
+<img src="./profile(1).png" width="150" height="150" style="border-radius:50%;"/>
 
 <br/><br/>
 
