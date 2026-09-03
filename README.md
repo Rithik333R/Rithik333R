@@ -2,12 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=200&section=header" width="100%"/>
 
-<!--
-  Replace PROFILE_PHOTO_HERE with your actual uploaded image filename
-  (upload your photo into this repo root, e.g. as profile.png, then
-  reference it as ./profile.png below)
--->
-<img src="./profile(1).png" width="150" height="150" style="border-radius:50%;"/>
+<img src="./profile.png" width="150" height="150"/>
 
 <br/><br/>
 
