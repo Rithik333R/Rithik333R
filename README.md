@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=220&section=header&text=Rithik%20Kumar%20M%20B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20AI%20Integration&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:6a11cb&height=200&section=header" width="100%"/>
+
+<!--
+  Replace PROFILE_PHOTO_HERE with your actual uploaded image filename
+  (upload your photo into this repo root, e.g. as profile.png, then
+  reference it as ./profile.png below)
+-->
+<img src="./profile.png" width="150" height="150" style="border-radius:50%;"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6A11CB&center=true&vCenter=true&width=600&lines=Rithik+Kumar+M+B;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+PostgreSQL;AI+Integration+with+Gemini" alt="Typing SVG"/>
 
 <br/>
 
@@ -93,6 +104,8 @@ AI-powered interview preparation platform built with React and Java/Spring Boot.
 
 `React` `Spring Boot` `MySQL` `JWT` `Gemini`
 
+[**Live Demo →**](https://mockiq-frontend.vercel.app/dashboard)
+
 </td>
 </tr>
 <tr>
@@ -104,6 +117,8 @@ Tournament management platform for esports competitions (Battle Royale, Clash Sq
 **Status:** Live
 
 `Node.js` `Express` `MongoDB` `JWT`
+
+[**Live Demo →**](https://free-fire-arena.vercel.app/login)
 
 </td>
 <td width="50%" valign="top">
@@ -126,10 +141,6 @@ Backend system for managing employee records — Java, Spring Boot, JWT authenti
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rithik333R&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rithik333R&theme=tokyonight&hide_border=true" width="49%"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rithik333R&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
 
 </div>
